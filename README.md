@@ -1,8 +1,4 @@
-# Standard Go Project Layout
-
-Translations:
-
-* [简体中文](README_zh.md)
+# 一个简单的 Git TUI 工具
 
 ## Overview
 
